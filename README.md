@@ -33,5 +33,16 @@ aggregates it, and transmits them serially.
 - Here can be seen the final setup, once the controller is connected to the Raspeberry Pi.
   <img src="images/ControllerSetUp.png" width="70%">
 
+# System Flow
+- Data Ingestion: The Raspberry Pi receives the serial input from the Arduino UNO. Efficient serial communication is critical to bridge the micro-controller and the
+single-board computer.
+- Node-RED: This visual programming environment is deployed on the Raspberry Pi to rapidly implement serverside logic [1]. Node-RED is used to parse the serial datastream, manage the communication flow, and prepare the
+data for web transmission.
+- Web-socket Communication: The processed control
+data are published by Node-RED via a Web-socket
+server. This protocol ensures a persistent, bi-directional,
+and low-latency connection, critical for real-time gaming
+control.
+
 # Contributors
 - [Alejandro Adorno](https://github.com/vawms): Designed and programmed the hardware controller. 
