@@ -45,6 +45,6 @@ and low-latency connection, critical for real-time gaming
 control.
 
 # Demo
-<video src="images/DriftLink_GameShowcase.mp4" width="100%" controls></video>
+https://github.com/user-attachments/assets/791d872f-cd1c-4965-8388-b6cbab9d80db
 # Contributors
 - [Alejandro Adorno](https://github.com/vawms): Designed and programmed the hardware controller. 
