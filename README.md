@@ -44,5 +44,7 @@ server. This protocol ensures a persistent, bi-directional,
 and low-latency connection, critical for real-time gaming
 control.
 
+# Demo
+<video src="images/DriftLink_GameShowcase.mp4" width="100%" controls></video>
 # Contributors
 - [Alejandro Adorno](https://github.com/vawms): Designed and programmed the hardware controller. 
