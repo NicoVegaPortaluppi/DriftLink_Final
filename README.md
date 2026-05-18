@@ -47,4 +47,5 @@ control.
 # Demo
 https://github.com/user-attachments/assets/791d872f-cd1c-4965-8388-b6cbab9d80db
 # Contributors
-- [Alejandro Adorno](https://github.com/vawms): Designed and programmed the hardware controller. 
+- [Alejandro Adorno](https://github.com/vawms): Designed and programmed the hardware controller.
+- [Nicolas Vega](https://github.com/NicoVegaPortaluppi): Designed and programmed the connection between the controller, the Raspberry Pi and the game. Hosted the game on the Raspberry Pi.
